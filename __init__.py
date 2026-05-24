@@ -1,1 +1,1 @@
-from stor import save_history, load_history
+from .stor import save_history, load_history
